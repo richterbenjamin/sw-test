@@ -1,6 +1,10 @@
 1.1 About Version Control
 1.2 A Short History of Git
+<<<<<<< HEAD
 1.3 Git Basics
 1.5 First-Time Git Setup
+=======
+1.3 Git tup
+>>>>>>> feature1
 1.6 Getting Help
 1.7 Summary
